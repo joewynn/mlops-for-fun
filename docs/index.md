@@ -14,9 +14,9 @@
 
 ## Business Objectives
 
-[1]. *Enhanced Product Quality*: Accurate wine quality prediction will lead to improved quality and consistency, enhancing the winery reputation and customer satisfaction 
-[2]. *Cost Optimization*: Optimal resources allocation and reduced wastage through predictive modeling will result in cost saving of wineries, improving overall operational efficiency
-[3]. *Market Competitiveness*: Consistent production of high-quality wines will give wineries competitive advantage, allowing them to stand out int he market and attract more customers.
+[1]. *Enhanced Product Quality*: Accurate wine quality prediction will lead to improved quality and consistency, enhancing the winery's reputation and customer satisfaction 
+[2]. *Cost Optimization*: Optimal resources allocation and reduced wastage through predictive modelling will result in a cost savings of wineries, improving overall operational efficiency
+[3]. *Market Competitiveness*: Consistent production of high-quality wines will give wineries a competitive advantage, allowing them to stand out in the market and attract more customers.
 [4]. *Better Customer Experience*
 [5]. *Improved Revenue*
 
