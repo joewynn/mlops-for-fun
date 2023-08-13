@@ -5,18 +5,20 @@
 
 ## Project Objective
 
-[1] Develop a predictive model using machine learning algorithms to accurately assess the quality of red and white wines based on various chemical properties and attributes
-[2] Evaluate and compare the performance of different machine learning algorithms to determine the most effective approach for wine quality prediction providing insight for potential industry application 
-[3] Develop an API to consume the model
-[4] Package the model for CI/CD
+[1]. Develop a predictive model using machine learning algorithms to accurately assess the quality of red and white wines based on various chemical properties and attributes
+
+[2]. Evaluate and compare the performance of different machine learning algorithms to determine the most effective approach for wine quality prediction providing insight for potential industry application 
+
+[3]. Develop an API to consume the model
+[4]. Package the model for CI/CD
 
 ## Business Objectives
 
-[1] *Enhanced Product Quality*: Accurate wine quality prediction will lead to improved quality and consistency, enhancing the winery reputation and customer satisfaction 
-[2] *Cost Optimization*: Optimal resources allocation and reduced wastage through predictive modeling will result in cost saving of wineries, improving overall operational efficiency
-[3] *Market Competitiveness*: Consistent production of high-quality wines will give wineries competitive advantage, allowing them to stand out int he market and attract more customers.
-[4] *Better Customer Experience*
-[5] *Improved Revenue*
+[1]. *Enhanced Product Quality*: Accurate wine quality prediction will lead to improved quality and consistency, enhancing the winery reputation and customer satisfaction 
+[2]. *Cost Optimization*: Optimal resources allocation and reduced wastage through predictive modeling will result in cost saving of wineries, improving overall operational efficiency
+[3]. *Market Competitiveness*: Consistent production of high-quality wines will give wineries competitive advantage, allowing them to stand out int he market and attract more customers.
+[4]. *Better Customer Experience*
+[5]. *Improved Revenue*
 
 
 
