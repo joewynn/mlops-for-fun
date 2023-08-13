@@ -1,19 +1,4 @@
-# Wine Classification Problem
-
-Wine is the fermented juice of grapes. 
-
-Wine can be classified in a variety of ways including color, residual sugar content, carbon dioxide content, alcohol content or graph variety. Generally there are five basic characteristics of wine
-- Sweetness - that is the level of residual sugar left in the wine after its creation
-- Acidity - it gives it sharpness - high acidity wine are often tart and zesty. A well-balanced wine is so called as it has acidity, sweetness and tnnin in perfect harmony
-- Tannin - tannin is the presence of phenolic compounds that add bitterness to a wine, and also adds balance ans structure, and helps wine last longer
-- Alcohol: wine alcohol percentage level have the biggest impact on a wine's character, body and classification. 
-- Body - it can help to think of a wine's body like milk, with skimmed milk representing a light wine, and cream representing a full-bodied wine. it is said if a wine's taste linges in your mouth for more than 30 seconds, it's almost certainly a full-bodied wine
-
-As can be seen, these characteristics are very subjective to human nature, and the outcome may differe from one individual to another. Machine learning provides an impartial way to predict the quality of the wine. 
-
-We'll work with three types of datasets to solve three different problems
-
-## The Dataset
+# Dataset
 
 ### Wine Type Dataset
 
