@@ -8,7 +8,6 @@ Detailed instructions for for setting up the environment are available on the [s
 
 ## Functions
 
-:::app:main
 
 ## Actions
 
