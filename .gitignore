@@ -9,7 +9,7 @@ __pycache__/
 notebooks/
 
 wine.md
-mkdocs.yml
+#mkdocs.yml
 TODO.md
 
 # Distribution / packaging
