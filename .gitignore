@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+notebooks/
+
+wine.md
+mkdocs.yml
+TODO.md
+
 # Distribution / packaging
 .Python
 build/
