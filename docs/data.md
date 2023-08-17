@@ -1,7 +1,34 @@
 # Dataset
 
-### Wine Type Dataset
+## Wine Origin Dataset
 
+Wine origin data set is
+
+These data are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. The analysis determined the quantities of 13 constituents found in each of the three types of wines.
+
+1) Alcohol
+2) Malic acid
+3) Ash
+4) Alcalinity of ash  
+5) Magnesium
+6) Total phenols
+7) Flavanoids
+8) Nonflavanoid phenols
+9) Proanthocyanins
+10)Color intensity
+11)Hue
+12)OD280/OD315 of diluted wines
+13)Proline
+
+In a classification context, this is a well posed problem with "well behaved" class structures. A good data set for first testing of a new classifier, but not very challenging.
+
+@misc{misc_wine_109,
+  author       = {Aeberhard,Stefan and Forina,M.},
+  title        = {{Wine}},
+  year         = {1991},
+  howpublished = {UCI Machine Learning Repository},
+  note         = {{DOI}: https://doi.org/10.24432/C5PC7J}
+}
 ### Wine Quality Dataset
 The [dataset](https://archive.ics.uci.edu/static/public/186/wine+quality.zip) we use is from [UCI Machine Learning Wine Quality Repository](https://archive.ics.uci.edu/dataset/186/wine+quality) which are the result of a physicochemical analysis of wines grown in Portugal related to red and white variants of Portuguese "Vinho Verde" wine. 
 

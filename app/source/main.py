@@ -4,7 +4,7 @@ from typing import List
 from fastapi import FastAPI
 from pydantic import BaseModel, conlist
 
-app = FastAPI(title="Predicting Wine Class")
+app = FastAPI(title="Predicting Wine Origin")
 
 # Represents a particular wine (or data-point)
 
