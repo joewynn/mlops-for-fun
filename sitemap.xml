@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://joewynn.github.io/mlops-for-fun/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <lastmod>2023-08-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://joewynn.github.io/mlops-for-fun/app/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <lastmod>2023-08-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://joewynn.github.io/mlops-for-fun/data/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <lastmod>2023-08-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://joewynn.github.io/mlops-for-fun/quality/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <lastmod>2023-08-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://joewynn.github.io/mlops-for-fun/recommendation/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <lastmod>2023-08-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://joewynn.github.io/mlops-for-fun/type/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <lastmod>2023-08-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
